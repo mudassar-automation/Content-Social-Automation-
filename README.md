@@ -1,46 +1,112 @@
-## 🚀 Auto-Generate & Post Content Using AI
+# 🤖 Content & Social Media Automation
 
-Take your social media automation to the next level with this **AI-powered content creation workflow**.  
-It transforms a single topic prompt into ready-to-publish posts — complete with captions, visuals, and scheduling — for **Twitter, Facebook, and LinkedIn**.  
-No manual writing, designing, or posting — everything runs on full autopilot.  
+This repository is built to **automate and scale your content creation workflow** using AI and no-code/low-code integrations.  
+It combines multiple systems that handle **idea generation, post creation, review, and multi-platform publishing** — all with minimal manual effort.
 
----
-
-### ⚙️ How It Works
-
-1. **Daily Trigger at 10 PM** – The automation activates automatically every night to create fresh content for the next day.  
-2. **AI Topic Generation** – Using OpenAI, the system generates a creative and niche-specific topic that fits your brand or audience.  
-3. **Post Writing** – It crafts an engaging short-form post (tweet-style) with smartly chosen hashtags for maximum reach.  
-4. **AI Image Creation** – An anime-style or visually appealing image is generated to match the topic, boosting engagement.  
-5. **Smart Data Logging** – All generated posts and assets are stored neatly in Google Sheets for easy review or editing.  
-6. **Auto Publishing** – The final post (text + image) is automatically published to **Twitter**, **LinkedIn**, and **Facebook** — no manual work needed.  
+Whether you’re managing one brand or multiple clients, this setup drastically reduces repetitive work and ensures every post stays **on-brand, engaging, and optimized** for each platform.
 
 ---
 
-### 🧩 Setup Requirements
+## 🧭 Overview
 
-Before you activate the workflow, make sure you have the following ready:
+This repo contains two complete automation systems designed for **social media content creation and scheduling**:
 
-- **OpenAI API key** – to generate topics and text  
-- **Google Sheets** – to store and track generated content  
-- **Social media credentials** – for Twitter (X), Facebook, and LinkedIn  
+1. [Automate Multi-Platform Social Media Content Creation with AI](./multi-platform-automation.md)  
+2. [Auto-Generate & Post Content Using AI](./auto-post-ai.md)
 
-Setup is quick and straightforward — it takes about **10–15 minutes** if your credentials are ready.  
-
----
-
-### 💡 Pro Tips for Smooth Operation
-
-- Double-check your **API connections** before enabling auto-publishing.  
-- Keep your **Google Sheet organized** — use it as a content calendar.  
-- Use **sticky notes** or comments inside the workflow for team collaboration and easy handoff.  
-- Adjust post timing and frequency to match your audience’s most active hours.  
+Both systems can work **independently** or be **integrated together** for a full end-to-end social media pipeline — from brainstorming ideas to final publishing.
 
 ---
 
-### 🌟 Why Use This Workflow?
+## 🚀 About This Repository
 
-This AI-driven system removes the repetitive effort of creating daily content.  
-You’ll consistently publish high-quality, on-brand posts — saving hours every week while keeping your social presence active and engaging.  
+### 🧠 Purpose
+The main goal is to **simplify digital marketing and content management** using automation.  
+Instead of manually writing posts, designing visuals, or switching between apps, these workflows use AI and connected APIs to:
 
-Whether you’re a **marketer**, **creator**, or **business owner**, this setup is your 24/7 digital content assistant.
+- Generate platform-specific posts automatically  
+- Add hashtags, CTAs, and emojis intelligently  
+- Create or suggest visuals using AI image tools  
+- Send formatted approval emails for human review  
+- Publish approved content across all social platforms  
+
+This eliminates the need for multiple tools, spreadsheets, and manual scheduling — everything happens automatically inside one streamlined system.
+
+---
+
+## ⚙️ Included Workflows
+
+### 1️⃣ Automate Multi-Platform Social Media Content Creation with AI
+
+**Supercharge your digital marketing workflow** with AI-driven automation that creates, reviews, and publishes content across **Twitter (X), Instagram, LinkedIn, Facebook, TikTok, Threads, and YouTube Shorts** — all from a single workflow.
+
+#### ✨ Key Features
+- 🧠 **AI Content Generation:** GPT-4 or Gemini automatically writes captions tailored for each platform’s tone and style.  
+- 🔍 **Smart Topic Research:** Uses SERP API to fetch trending topics and keywords.  
+- 🎨 **Visual Creation:** Auto-generates images or videos with DALL·E, Pollinations.ai, or Midjourney-style prompts.  
+- ✅ **Approval Workflow:**  
+  - Sends content via Gmail for review.  
+  - Supports dual-approval (manager + client).  
+- 🌐 **Cross-Platform Publishing:**  
+  - Instagram / Facebook → Meta Graph API  
+  - Twitter (X) → Official API  
+  - LinkedIn → API or Sales Navigator integration  
+
+#### 🔐 Credentials Required
+- OpenAI API Key  
+- Google Gemini API Key  
+- Social Media Tokens (X, Facebook, LinkedIn)  
+- ImgBB API Key (for image hosting)  
+- Gmail Integration (for approval)  
+- SERP API Key (for keyword/topic search)  
+- Telegram Bot Token (optional notifications)  
+
+#### ⚙️ Setup & Customization
+- Update “your-unique-id” placeholders inside API nodes.  
+- Add your Gmail recipients in approval nodes.  
+- Customize AI prompts to match your tone and brand voice.  
+- Test one platform before enabling all seven.
+
+#### 📊 Optional Add-ons
+- Google Sheets integration for analytics & performance tracking.  
+- Looker / Data Studio dashboards for visualization.  
+
+👉 [**View full documentation here**](./multi-platform-automation.md)
+
+---
+
+### 2️⃣ Auto-Generate & Post Content Using AI
+
+This automation focuses on **daily, fully automated content generation and publishing** for **Twitter (X), Facebook, and LinkedIn**.  
+It turns a single AI-generated topic into **a complete social post** with captions, visuals, and hashtags — all created, logged, and posted automatically.
+
+#### ⚙️ Workflow Steps
+1. **Automatic Daily Trigger (10 PM):** Creates fresh content for the next day.  
+2. **AI Topic Generation:** OpenAI suggests a relevant, brand-fit topic.  
+3. **Post Writing:** Generates a concise tweet-style caption with hashtags.  
+4. **AI Image Generation:** Creates a matching visual (anime-style or brand image).  
+5. **Smart Logging:** Saves everything to Google Sheets for review and tracking.  
+6. **Auto Publishing:** Posts automatically to Twitter, Facebook, and LinkedIn.
+
+#### 🧩 Setup Requirements
+- OpenAI API Key  
+- Google Sheets (for data storage & tracking)  
+- API credentials for Twitter, Facebook, LinkedIn  
+
+#### 💡 Tips for Smooth Operation
+- Verify all API connections before enabling automation.  
+- Use Google Sheets as your **content calendar**.  
+- Add comments or tags inside your automation tool for collaboration.  
+- Adjust trigger times to align with audience activity.
+
+#### 🌟 Benefits
+- Zero manual posting — everything runs on autopilot.  
+- AI ensures creative, consistent, and engaging daily content.  
+- Ideal for personal brands, agencies, and marketers managing multiple accounts.
+
+👉 [**View full documentation here**](./auto-post-ai.md)
+
+---
+
+## 🧩 Recommended Folder Structure
+
