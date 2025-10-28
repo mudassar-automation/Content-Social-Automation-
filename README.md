@@ -11,8 +11,8 @@ Whether you’re managing one brand or multiple clients, this setup drastically 
 
 This repo contains two complete automation systems designed for **social media content creation and scheduling**:
 
-1. [Automate Multi-Platform Social Media Content Creation with AI](./multi-platform-automation.md)  
-2. [Auto-Generate & Post Content Using AI](./auto-post-ai.md)
+1.🤖Automate Multi-Platform Social Media Content Creation with 
+2. Auto-Generate & Post Content Using AI
 
 Both systems can work **independently** or be **integrated together** for a full end-to-end social media pipeline — from brainstorming ideas to final publishing.
 
@@ -71,7 +71,7 @@ This eliminates the need for multiple tools, spreadsheets, and manual scheduling
 - Google Sheets integration for analytics & performance tracking.  
 - Looker / Data Studio dashboards for visualization.  
 
-👉 [**View full documentation here**](./multi-platform-automation.md)
+👉 https://github.com/mudassar-automation/content-social-automation-/blob/edb94f3c23ed0f8d9eb353d0ae5a5dec8c4f002c/%E2%9C%A8%F0%9F%A4%96Automate%20Multi-Platform%20Social%20Media%20Content%20Creation%20with%20AI.json
 
 ---
 
@@ -104,9 +104,7 @@ It turns a single AI-generated topic into **a complete social post** with captio
 - AI ensures creative, consistent, and engaging daily content.  
 - Ideal for personal brands, agencies, and marketers managing multiple accounts.
 
-👉 [**View full documentation here**](./auto-post-ai.md)
-
----
-
-## 🧩 Recommended Folder Structure
+👉 [[**View full documentation here**](./auto-post-ai.md)
+](https://github.com/mudassar-automation/content-social-automation-/blob/edb94f3c23ed0f8d9eb353d0ae5a5dec8c4f002c/Automate%20Social%20Media%20Posts%20with%20AI%20Content%20and%20Images%20across%20Twitter%2C%20LinkedIn%20%26%20Facebook.json)
+---  (./✨🤖Automate Multi-Platform Social Media Content Creation with AI.json.md)
 
