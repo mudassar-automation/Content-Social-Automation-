@@ -11,7 +11,7 @@ Whether you’re managing one brand or multiple clients, this setup drastically 
 
 This repo contains two complete automation systems designed for **social media content creation and scheduling**:
 
-1.🤖Automate Multi-Platform Social Media Content Creation with AI                                                                               
+1.🤖Automate Multi-Platform Social Media Content Creation with AI (https://github.com/mudassar-automation/Content-Social-Automation-/blob/4b974ba951ded5ce478d08c4f760f77765768603/Automate%20Social%20Media%20Posts%20with%20AI%20Content%20and%20Images%20across%20Twitter%2C%20LinkedIn%20%26%20Facebook.json)                                                                               
 2. Auto-Generate & Post Content Using AI
 
 Both systems can work **independently** or be **integrated together** for a full end-to-end social media pipeline — from brainstorming ideas to final publishing.
