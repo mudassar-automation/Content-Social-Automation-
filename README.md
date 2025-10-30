@@ -71,6 +71,8 @@ This eliminates the need for multiple tools, spreadsheets, and manual scheduling
 - Google Sheets integration for analytics & performance tracking.  
 - Looker / Data Studio dashboards for visualization.  
 
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Content-Social-Automation-/blob/main/%E2%9C%A8%F0%9F%A4%96Automate%20Multi-Platform%20Social%20Media%20Content%20Creation%20with%20AI.json)
+
 ---
 
 ### 2️⃣ Auto-Generate & Post Content Using AI
