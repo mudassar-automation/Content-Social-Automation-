@@ -99,6 +99,8 @@ It turns a single AI-generated topic into **a complete social post** with captio
 - Add comments or tags inside your automation tool for collaboration.  
 - Adjust trigger times to align with audience activity.
 
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Content-Social-Automation-/blob/main/%E2%9C%A8%F0%9F%A4%96Automate%20Multi-Platform%20Social%20Media%20Content%20Creation%20with%20AI.json)
+
 #### 🌟 Benefits
 - Zero manual posting — everything runs on autopilot.  
 - AI ensures creative, consistent, and engaging daily content.  
