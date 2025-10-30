@@ -11,7 +11,8 @@ Whether you’re managing one brand or multiple clients, this setup drastically 
 
 This repo contains two complete automation systems designed for **social media content creation and scheduling**:
 
-1.🤖Automate Multi-Platform Social Media Content Creation with  (/Content-Social-Automation)                                               
+1.🤖Automate Multi-Platform Social Media Content Creation with  (/Content-Social-Automation/Content-Social-Automation-
+/Automate Social Media Posts with AI Content and Images across Twitter, LinkedIn & Facebook.json)                                               
 2. Auto-Generate & Post Content Using AI
 
 Both systems can work **independently** or be **integrated together** for a full end-to-end social media pipeline — from brainstorming ideas to final publishing.
