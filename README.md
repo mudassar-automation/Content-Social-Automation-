@@ -104,4 +104,4 @@ It turns a single AI-generated topic into **a complete social post** with captio
 - AI ensures creative, consistent, and engaging daily content.  
 - Ideal for personal brands, agencies, and marketers managing multiple accounts.
 
-➡️ [Click here to view the complete workflow code]([https://github.com/mudassar-automation/Content-Social-Automation-/blob/main/%E2%9C%A8%F0%9F%A4%96Automate%20MultiPlatform%20Social%20Media%20Content%20Creation%20with%20AI.json](https://github.com/mudassar-automation/Content-Social-Automation-/blob/4b974ba951ded5ce478d08c4f760f77765768603/Automate%20Social%20Media%20Posts%20with%20AI%20Content%20and%20Images%20across%20Twitter%2C%20LinkedIn%20%26%20Facebook.json))
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Content-Social-Automation-/blob/main/Automate%20Social%20Media%20Posts%20with%20AI%20Content%20and%20Images%20across%20Twitter%2C%20LinkedIn%20%26%20Facebook.json)
